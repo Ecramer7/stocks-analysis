@@ -158,8 +158,11 @@ The code underwent several changes in order to have the capability to run throug
 
 ### Refractored Time Results
 2017 time before refactoring: 0.7734375 seconds
+
 <img width="239" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/111031608/186537687-ecaa5b2d-512f-451b-8f9e-dab8c74008f6.PNG">
+
 2018 time before refactoring: 0.796875 seconds
+
 <img width="241" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/111031608/186537692-a6105119-6456-4b52-96e5-508f69ff3acc.PNG">
 
 ## Summary 
