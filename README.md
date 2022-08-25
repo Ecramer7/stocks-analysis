@@ -1,4 +1,4 @@
-# Module 2 - VBA Challeng
+# Module 2 - VBA Challenge
 
 ## Overview of Project 
 ### Purpose 
